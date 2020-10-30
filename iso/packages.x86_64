@@ -261,3 +261,7 @@ unimatrix-git
 ##-------- AUR Packages For Vicyos Personal Use --------##
 
 playerctl
+
+# fix timezone:
+chrony
+
