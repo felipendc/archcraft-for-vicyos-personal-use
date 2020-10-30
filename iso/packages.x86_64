@@ -267,3 +267,23 @@ chrony
 
 redshiftgui-bin
 gnome-system-monitor
+
+# Davinci Resolve fix:
+ocl-icd
+
+gimp
+inkscape
+qbittorrent
+vlc
+youtube-dl
+clementine
+krita
+gnome-calculator
+clipgrab
+pinta
+filezilla
+wget 
+python 
+python-pip
+curl
+
