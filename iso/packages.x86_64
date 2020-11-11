@@ -288,3 +288,7 @@ python-pip
 curl
 simple-scan
 arandr
+
+# Hplib Gui:
+#python-pyqt4
+#python-pyqt5
