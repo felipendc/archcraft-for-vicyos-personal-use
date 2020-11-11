@@ -122,6 +122,7 @@ export PATH="$PATH:/home/vicyos/Android/Sdk/platform-tools"
 bindkey -v
 neofetch
 
+# Delete all the files from the Trash 
 alias trash='cd ~/.local/share/Trash'
 alias cleartrash='sudo   rm -rf ~/.local/share/Trash/*'
 
