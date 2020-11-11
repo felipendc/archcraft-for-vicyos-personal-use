@@ -288,6 +288,7 @@ python-pip
 curl
 simple-scan
 arandr
+hwinfo
 
 # Hplib Gui:
 #python-pyqt4
