@@ -265,7 +265,7 @@ playerctl
 # fix timezone:
 chrony
 
-redshiftgui-bin
+#redshiftgui-bin
 gnome-system-monitor
 
 # Davinci Resolve fix:
@@ -282,8 +282,9 @@ gnome-calculator
 clipgrab
 pinta
 filezilla
-wget 
-python 
+
+#wget 
+#python 
 python-pip
 curl
 simple-scan
