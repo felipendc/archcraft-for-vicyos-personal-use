@@ -98,6 +98,7 @@ chmod +x setup.sh
 ```bash
 cd iso
 sudo su
+chmod +x build.sh
 ./build.sh -v
 ```
 
